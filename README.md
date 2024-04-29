@@ -10,8 +10,9 @@ For that I stud in my vague time topics in data science.
 ### About Python
 At momento, I dont remenbor who I started, but I have a good knooledge of Python in libraries, including Pandas and Numpy. I did not any course, was just google searching.
 
-### About English
-* I read very well, in particular some niches like math and computional science (articles, documentations, magazines)
+### About english
+* I classified my english as intermediary. I did some online tests to some job opportunity that also classified me as intermediary.
+* I read well, in particular  very well in some niches like math and computional science (articles, documentations, magazines)
 * I dont practice speach with peoples, just alone. However I can well apresent and listen some themes in math and computional science.
 
 ### About database modeling
