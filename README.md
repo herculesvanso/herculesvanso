@@ -1,5 +1,4 @@
-# Hi!!
-
+# Hi!
 
 ## Hércules here, thanks for your curiosity. Let's introduce myself.
 
@@ -8,14 +7,14 @@ In my bachelor's degree I had contact with programming in C, contact database mo
 Now that I had finish my bachelor's I decide to explory the data scince universe.
 For that I stud in my vague time topics in data science.
 
-## About Python
+### About Python
 At momento, I dont remenbor who I started, but I have a good knooledge of Python in libraries, including Pandas and Numpy. I did not any course, was just google searching.
 
-## About English
+### About English
 * I read very well, in particular some niches like math and computional science (articles, documentations, magazines)
 * I dont practice speach with peoples, just alone. However I can well apresent and listen some themes in math and computional science.
 
-## About database modeling
+### About database modeling
 
 Current profile edition in progress...
 
