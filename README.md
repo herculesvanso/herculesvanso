@@ -8,7 +8,7 @@ Now that I had finish my bachelor's I decide to explory the data scince universe
 For that I stud in my vague time topics in data science.
 
 ### About Python
-At momento, I dont remenbor who I started, but I have a good knooledge of Python in libraries, including Pandas and Numpy. I did not any course, was just google searching.
+At momento, I dont remenbor who I started, but I have a good knooledge of Python, incluning libraries including Pandas and Numpy. I did not any course, was just google searching.
 
 ### About english
 * I classified my english as intermediary. I did some online tests to some job opportunity that also classified me as intermediary.
