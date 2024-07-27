@@ -1,19 +1,17 @@
 # Hi!
 
-## Hércules here, thanks for your curiosity. Let's introduce myself.
-
 I obtained a bachelor's degree in Math by UFG - Univserdade Federal de Goiás in 2023.
 In my bachelor's degree I had contact with programming in C, contact database modeling and basic queries in Postgres, robust contact with statistics and convex optimization (about 3 years in scintific projects in that area).
 Now that I had finish my bachelor's I decide to explory the data scince universe.
 For that I stud in my vague time topics in data science.
 
 ### About Python
-At momento, I dont remenbor who I started, but I have a good knooledge of Python, incluning libraries including Pandas and Numpy. I did not any course, was just google searching.
+At the momente I dont remenber who I started, but I have a good knoowledge of Python, including Pandas and Numpy libraries.
 
 ### About english
-* I classified my english as intermediary. I did some online tests to some job opportunity that also classified me as intermediary.
-* I read well, in particular  very well in some niches like math and computional science (articles, documentations, magazines)
-* I dont practice speach with peoples, just alone. However I can well apresent and listen some themes in math and computional science.
+* I classified my english as intermediary.
+* I read well, especially very well in some niches such as mathematics and computer science (articles, documentation, magazines)
+*I don't practice talking to people, only alone. However, I can present and listen to some mathematics and computer science topics.
 
 ### About database modeling
 
