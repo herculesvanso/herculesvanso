@@ -5,17 +5,25 @@ In my bachelor's degree I had contact with programming in C, contact database mo
 Now that I had finish my bachelor's I decide to explory the data scince universe.
 For that I stud in my vague time topics in data science.
 
-### About Python
+### Python
 At the momente I dont remenber who I started, but I have a good knoowledge of Python, including Pandas and Numpy libraries.
+My references are w3schools, geeksforgeeks, free courses on youtube, Alura plataform, and the libraries official documentation.
 
-### About english
+### English
+* I have a certificate of sufficiency in English laguage acquired in UFG at July 2024.
 * I classified my english as intermediary.
 * I read well, especially very well in some niches such as mathematics and computer science (articles, documentation, magazines)
 *I don't practice talking to people, only alone. However, I can present and listen to some mathematics and computer science topics.
 
-### About database modeling
+### Database modeling
+
+### Postgres
+
+### LaTeX
 
 Current profile edition in progress...
+
+
 
 
 
