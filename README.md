@@ -1,6 +1,6 @@
 # Welcome!
 
-### Resume
+### Summary
 
 I obtained a bachelor's degree in Math by UFG - Univserdade Federal de Goiás in 2023.
 In my bachelor's degree I had contact with programming in C, contact database modeling and basic queries in Postgres, robust contact with statistics and convex optimization (about 3 years in scintific projects in that area).
