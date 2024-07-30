@@ -6,8 +6,8 @@ Now that I had finish my bachelor's I decide to explory the data scince universe
 For that I stud in my vague time topics in data science.
 
 ### Python
-*At the momente I dont remenber who I started, but I have a good knoowledge of Python, including Pandas and Numpy libraries.
-*My references are w3schools, geeksforgeeks, free courses on youtube, Alura plataform, and the libraries official documentation.
+* At the momente I dont remenber who I started, but I have a good knoowledge of Python, including Pandas and Numpy libraries.
+* My references are w3schools, geeksforgeeks, free courses on youtube, Alura plataform, and the libraries official documentation.
 
 ### English
 * I have a certificate of sufficiency in English laguage acquired in UFG at July 2024.
