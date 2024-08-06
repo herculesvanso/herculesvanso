@@ -17,16 +17,8 @@ For that I stud in my vague time topics in data science.
 * I read well, especially very well in some niches such as mathematics and computer science (articles, documentation, magazines)
 *I don't practice talking to people, only alone. However, I can present and listen to some mathematics and computer science topics.
 
-### Database modeling
-
-### Postgres
-
 ### LaTeX
-
-Current profile edition in progress...
-
-
-
+* I used LaTex for write articles on 3 years in my graduation. You can check them in my LinkdIn profile.
 
 
 <!--
